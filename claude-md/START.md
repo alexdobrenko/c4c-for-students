@@ -31,9 +31,25 @@ opened in. Don't print what you find.
   "About me" part is still the placeholder): keep the starter exactly as it is and add to it.
 - **A file with their own writing in it** (their own file, or the starter with things they added):
   say in one sentence what you see ("You've got a bit about your newsletter and a couple of rules
-  about email"). Then ask what they'd like to change, add or drop, and only cover what's missing.
-  Never start over, and never remove something they wrote without asking. Keep the starter section,
-  if there is one, exactly as it is.
+  about email"). Then offer a quick checkup (see below) before asking what they'd like to change,
+  add or drop, and only cover what's missing. Never start over, and never remove something they
+  wrote without asking. Keep the starter section, if there is one, exactly as it is.
+
+## The checkup (only when they already have a file)
+
+Read the file and pick out at most three things worth a look, each in one line. Only real ones,
+from what's actually in the file:
+
+- **Projects that may be done.** Something under "working on" that sounds finished or old.
+- **Lines that disagree.** Two lines asking for opposite things.
+- **Rules with no reason.** A rule that will be hard to judge later because it doesn't say why.
+- **Lines that ask for what Claude does anyway** ("be helpful", "be accurate").
+- **Length.** Over about 150 lines, offer to move long rules into topic files in `~/.claude/rules/`
+  and leave a one-line pointer behind.
+
+If nothing stands out, say the file looks in good shape and skip it. Offer the list as something
+they can take or leave ("Want to go through these, or skip to what you came to change?"). Go
+through whichever ones they pick, one at a time, and change nothing they haven't agreed to.
 
 ## The conversation
 
