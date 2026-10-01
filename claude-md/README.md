@@ -18,7 +18,8 @@ Help me write my CLAUDE.md. Run curl -fsSL https://raw.githubusercontent.com/ale
    text file from GitHub: the instructions Claude follows for this conversation. Choose the plain
    **Yes**. There may also be an option that stops Claude asking about commands like this in the
    future. Skip that one, so Claude keeps checking with you about downloads.
-2. **Claude asks how you'd like it to sound** (silly, normal, or very serious), then asks about
+2. **Claude asks how you want it to ask the questions:** like a celebrity, like Alex, like Pranav,
+   or like you, where it guesses how you talk and you tell it how close it got. Then it asks about
    you, one question at a time. Answer however you like. "I don't know" and "skip" both work.
 3. **Claude shows you the whole file before saving it** and waits for your OK. Change anything you
    want first. If you already have a CLAUDE.md, it saves a copy of the old one before changing it.
