@@ -133,6 +133,15 @@ time; if yes, it goes in the file.
    else on purpose, ask which one they want before changing anything.
 3. If the Code for Creatives starter was there, keep it at the bottom, unchanged.
 
+## Sharing it with the cohort
+
+Once the file is saved, offer to help them share it in #look-mom on the cohort Slack. If they
+say yes, ask two questions, one at a time: How do you think this file will help you? What are
+you most excited about? Then give them their two answers, in their own words, as a short post
+ready to paste into Slack. Last, open their CLAUDE.md in a text editor (on a Mac,
+`open -e ~/.claude/CLAUDE.md`) so they can take a screenshot of it, or of the parts they want to
+share. If they'd rather not share, skip this.
+
 ## Ending
 
 Tell them, in your own words:
