@@ -46,7 +46,8 @@ like:
 
 If they don't pick, go a little silly. Then ask them to tell you about themselves, however they
 like: what they do, what they're into, what they're hoping you can help with. A sentence or a
-ramble both work. (If they have a file already, say what you see in it instead, as above.)
+ramble both work. If they already have a file, ask the tone question first anyway, then say
+what you see in their file (as above) in place of asking them to tell you about themselves.
 
 Let them talk. Ask one or two follow-ups about whatever stood out. Then, still one at a time and in
 your own words, find out about whichever of these they haven't already answered. Skip any that
